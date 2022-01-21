@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="nso_live_status",
-    version="1.0.0",
+    version="1.0.1",
     description="Retrieve cli result and parse it using NSO live status and PyATS parsers",
     long_description=README,
     long_description_content_type="text/markdown",
