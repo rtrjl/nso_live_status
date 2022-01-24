@@ -76,4 +76,4 @@ If a pyats parser is found for the cli command you will find a dict in *structur
 
 ## License
 
-This project is licensed to you under the terms of the [Cisco Sample Code License](./LICENSE).
+This project is licensed to you under the terms of the [Cisco Sample Code License](https://raw.githubusercontent.com/rtrjl/nso_restconf/master/LICENSE).
